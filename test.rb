@@ -1,5 +1,5 @@
 puts "Hi, my name is computer, what is your name?"
-name = gets.chomp.capitalization
+name = gets.chomp.capitalize
 puts "Hahaha, #{name}? I don't like that name so I will call you Martha. Is that okay?"
 answer = gets.chomp
 puts "Honestly I don't care if it is, but you are going to be my new friend. Because we are friends, what do you want to do today?"
